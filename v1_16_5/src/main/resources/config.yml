@@ -1,0 +1,8 @@
+Settings:
+  prefix: "&f[ &aDCC &f] "
+
+  # 활성화시 모든 유저의 채팅이 1번 채널로 전송되며 이후에 유저가 자유롭게 채팅 채널을 변경하게 됩니다.
+  # 기본설정인 비활성화시 전체 채팅으로 채팅이 전송되며 유저가 채팅 채널을 변경하면 변경된 채널로 채팅이 전송됩니다.
+  forceUseChannel: false
+
+  channelPrefix: "&f[ &a<channel>채널 &f] <player>: <message>"
